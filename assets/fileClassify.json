@@ -1,0 +1,58 @@
+{
+  "name": "all",
+  "list": [
+    {
+      "name": "android",
+      "list": [
+        {
+          "name": "mall",
+          "list": [
+            {
+              "name": "base"
+            },
+            {
+              "name": "community"
+            },
+            {
+              "name": "home"
+            },
+            {
+              "name": "live"
+            },
+            {
+              "name": "login"
+            },
+            {
+              "name": "message"
+            },
+            {
+              "name": "mine"
+            },
+            {
+              "name": "shopping"
+            },
+            {
+              "name": "yijiang"
+            }
+          ]
+        },
+        {
+          "name": "yim",
+          "list": [
+
+          ]
+        },
+        {
+          "name": "ydy",
+          "list": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ios",
+      "list": []
+    }
+  ]
+}
